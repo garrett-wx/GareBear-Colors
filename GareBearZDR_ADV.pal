@@ -1,0 +1,21 @@
+; Generated Color Table with Tools by Garrett Helms for WxTools.org
+Product: ZDR
+Units: DB
+Step: 1
+RF: 64 64 64
+
+Color: -8 0 0 0
+Color: -6 0 0 0
+Color: -4 46 46 46
+Color: -1 48 48 48
+Color: 0 142 121 181
+Color: 0 220 220 220
+Color: 0.25 10 10 155
+Color: 1.25 52 183 157
+Color: 2 221 182 39
+Color: 3 202 5 2
+Color: 4 157 1 1
+Color: 5 255 112 184
+Color: 6 201 201 201
+Color: 7 147 47 152
+Color4: 8.01 147 47 152 0
